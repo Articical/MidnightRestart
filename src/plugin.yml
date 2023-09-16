@@ -1,0 +1,6 @@
+name: Shutdown
+version: 1.0.0
+author: RyTheFirst
+website: rythefirst.uk
+main: uk.rythefirst.midnight.Main
+api-version: 1.16
